@@ -8,7 +8,7 @@ Temel özellikler şunları içerir:
 
 • Responsive tasarım
 
-• Kullanışlı arayüz
+• Kullanışlı arayüz 
 
 
 ![](https://github.com/Rasime-Dumlupunar/software-academy/blob/main/academy.gif)
