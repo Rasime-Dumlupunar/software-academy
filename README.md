@@ -1,4 +1,4 @@
-# software-academy
+# Software Academy
 
 Kolay kullanıma sahip responsive bir web sitesi.
 
